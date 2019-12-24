@@ -6,4 +6,4 @@ categories:
 ---
 
 # DQN and DDQN
-[Final report](_docs/rl_project2.pdf)
+[Final report](www.wesleyliao.github.io/_docs/rl_project2.pdf)
