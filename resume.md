@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /cv
-permalink: /cv/
+title: /resume
+permalink: /resume/
 ---
 
 # Work
@@ -12,3 +12,8 @@ Oliver Wyman - Consulting
 # School
 Georgia Tech - MSCS
 University of Waterloo - BS
+
+# Skills
+- Python
+- SQL
+- C
