@@ -1,9 +1,9 @@
 ---
 title: /projects
-layout: page
+layout: home
 permalink: /projects
 ---
 
-# Peter principle
+# projects
 
-To be filled in eventually
+slowly being filled
