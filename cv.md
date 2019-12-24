@@ -4,13 +4,13 @@ title: /cv
 permalink: /cv/
 ---
 
-# resume
+# Resume
 
-## work
+## Work
 BCG GAMMA - Data Science
 Google - Strategy / Analytics
 Oliver Wyman - Consulting
 
-## school
+## School
 Georgia Tech - MSCS
 University of Waterloo - BS
