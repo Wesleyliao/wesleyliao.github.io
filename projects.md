@@ -9,4 +9,4 @@ permalink: /projects
 slowly being filled
 
 ## Lunar Lander
-[Final report](https://github.com/Wesleyliao/wesleyliao.github.io/blob/master/_docs/rl_project2.pdf)
+[Final report](https://wesleyliao.github.io/docs/rl_project2.pdf)
