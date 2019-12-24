@@ -8,7 +8,7 @@ header_pages:
 
 style: light
 
-footer: contact\: [linkedin](https://www.linkedin.com/in/wesleyliao/) [email](mailto:wesleyliao3@gmail.com)
+footer: 'contact: <a href="https://www.linkedin.com/in/wesleyliao/">linkedin</a> [linkedin](https://www.linkedin.com/in/wesleyliao/) [email](mailto:wesleyliao3@gmail.com)'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
