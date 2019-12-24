@@ -8,7 +8,7 @@ permalink: /cv/
 
 ## Work
 BCG GAMMA - Data Science
-Google - Strategy / Analytics
+Google - Strategy & Analytics
 Oliver Wyman - Consulting
 
 ## School
