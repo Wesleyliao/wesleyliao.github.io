@@ -4,6 +4,6 @@ layout: page
 permalink: /
 ---
 
-# Welcome
+# Wesley's page
 
-hello, still under construction
+welcome. still under construction
