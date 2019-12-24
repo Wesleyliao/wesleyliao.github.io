@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+title: 'wesleyliao.github.io'
+url: "https://wesleyliao.github.io"
+
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
+
+style: light
+
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
