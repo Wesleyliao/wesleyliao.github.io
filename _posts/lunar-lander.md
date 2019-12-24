@@ -6,5 +6,4 @@ categories:
 ---
 
 # DQN and DDQN
-<!-- [Final report](www.wesleyliao.github.io/_docs/rl_project2.pdf) -->
-<a href="www.wesleyliao.github.io/_docs/rl_project2.pdf" class="image fit">final report</a>	
+[Final report](www.wesleyliao.github.io/_docs/rl_project2.pdf)
