@@ -1,13 +1,14 @@
 title: 'wesleyliao.github.io'
-url: "https://wesleyliao.github.io"
+url: "https://wesleyliao.com"
 
 header_pages:
   - index.md
   - cv.md
   - projects.md
-  - contact.md
 
 style: light
+
+footer: contact: [linkedin](https://www.linkedin.com/in/wesleyliao/) [email](mailto:wesleyliao3@gmail.com)
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
