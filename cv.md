@@ -1,7 +1,7 @@
 ---
 layout: page
-title: /resume
-permalink: /resume/
+title: /cv
+permalink: /cv/
 ---
 
 # Work
@@ -14,6 +14,4 @@ Georgia Tech - MSCS
 University of Waterloo - BS
 
 # Skills
-- Python
-- SQL
-- C
+Python, SQL, C

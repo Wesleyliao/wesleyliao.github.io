@@ -3,12 +3,12 @@ url: "https://wesleyliao.com"
 
 header_pages:
   - index.md
-  - resume.md
+  - cv.md
   - projects.md
 
 style: light
 
-footer: '<a href="https://www.linkedin.com/in/wesleyliao/">linkedin</a> <a href="mailto:wesleyliao3@gmail.com">email</a>'
+footer: 'contact me at <a href="https://www.linkedin.com/in/wesleyliao/">linkedin</a> <a href="mailto:wesleyliao3@gmail.com">email</a>'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
