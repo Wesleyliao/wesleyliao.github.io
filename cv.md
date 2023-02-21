@@ -5,7 +5,8 @@ permalink: /cv/
 ---
 
 # Work
-BCG GAMMA - Data Science
+Dropbox - ML Engineering
+BCG GAMMA - ML Engineering
 Google - Strategy & Analytics
 Oliver Wyman - Consulting
 
@@ -14,4 +15,4 @@ Georgia Tech - MSCS
 University of Waterloo - BS
 
 # Skills
-Python, SQL, C
+Python, Go, SQL, C
