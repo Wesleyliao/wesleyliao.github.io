@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-# Unlocking Value Through Data
+# Wesley Liao | Applied AI Solutions
 
 We specialize in developing custom artificial intelligence and machine learning solutions that drive efficiency, growth, and innovation for the real estate, insurance, and retail sectors. Our mission is to transform complex data into actionable, strategic assets for your business.
 
