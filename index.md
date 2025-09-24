@@ -4,7 +4,7 @@ layout: page
 permalink: /
 ---
 
-# Wesley Liao | Applied AI Solutions
+# Wesley Liao | Applied Solutions
 
 We specialize in developing custom artificial intelligence and machine learning solutions that drive efficiency, growth, and innovation for the real estate, insurance, and retail sectors. Our mission is to transform complex data into actionable, strategic assets for your business.
 
@@ -12,7 +12,7 @@ We specialize in developing custom artificial intelligence and machine learning 
 
 ### Core Expertise
 
-**Real Estate Technology**
+**Real Estate Development & Technology**
 From predictive property valuation models to automated market analysis, we help brokerages, investors, and property managers make smarter, data-driven decisions.
 
 **Insurtech & Risk Analytics**

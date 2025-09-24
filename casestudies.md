@@ -19,9 +19,7 @@ Here are some examples of how we've delivered measurable value for our clients.
 
 ### Case Study: AI-Powered Claims Segmentation for an Insurance Provider
 
-* **Client:** A mid-sized property and casualty insurer.
+* **Client:** A mid-sized flood insurance insurer.
 * **Challenge:** The claims department was overwhelmed, with simple and complex claims receiving the same level of initial scrutiny, causing delays and high processing costs.
 * **Solution:** We implemented an NLP-based model to analyze incoming claim reports. The system automatically categorizes claims by complexity, flags potential fraud indicators, and routes them to the appropriate adjuster (fast-track vs. senior review).
 * **Result:** Reduced average claim processing time by 40% for low-complexity claims and increased fraud detection rates by 25%.
-
----

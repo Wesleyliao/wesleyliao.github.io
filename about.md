@@ -16,6 +16,7 @@ Wesley Liao is a technologist and strategist with a track record of delivering h
 -   **Strategy & Analytics:** Developing data-informed strategies to drive product growth and market penetration.
 -   **Management Consulting at Oliver Wyman:** Advising industry leaders on technology adoption and business transformation.
 
+
 Wesley holds a Master's in Computer Science from Georgia Tech, specializing in Machine Learning, and a Bachelor's degree from the University of Waterloo.
 
 ### Core Competencies
