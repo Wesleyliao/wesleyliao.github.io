@@ -1,14 +1,17 @@
-title: 'wesleyliao.github.io'
+title: 'Wesley Liao | Applied AI Solutions'
+description: "Leveraging AI and machine learning to unlock value in real estate, insurance, and retail."
 url: "https://wesleyliao.com"
 
+# Navigation pages
 header_pages:
   - index.md
-  - cv.md
-  - projects.md
+  - about.md
+  - casestudies.md
+  - contact.md
 
-style: light
+style: light # Or dark
 
-footer: 'contact me at <a href="https://www.linkedin.com/in/wesleyliao/">linkedin</a> <a href="mailto:wesleyliao3@gmail.com">email</a>'
+footer: '© 2025 Wesley Liao | 235 Grand St 326, Jersey City, NJ, 07302 | <a href="https://www.linkedin.com/in/wesleyliao/">LinkedIn</a> | <a href="mailto:wesleyliao3@gmail.com">Email</a>'
 
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
