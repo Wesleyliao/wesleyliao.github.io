@@ -5,6 +5,7 @@ permalink: /cv/
 ---
 
 # Work
+Google - AI Engineering
 Dropbox - ML Engineering
 BCG GAMMA - ML Engineering
 Google - Strategy & Analytics
